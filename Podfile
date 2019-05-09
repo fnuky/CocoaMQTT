@@ -8,10 +8,3 @@ target 'CocoaMQTT iOSTests' do
     pod 'CocoaAsyncSocket'
 end
 
-target 'CocoaMQTT OSX' do
-    pod 'CocoaAsyncSocket'
-end
-
-target 'CocoaMQTT tvOS' do
-    pod 'CocoaAsyncSocket'
-end
